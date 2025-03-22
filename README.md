@@ -1,1 +1,1 @@
-BookBot is my first project!
+BookBot reads and analyses a book and gives you a report
